@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Little Red Apple]]></title>
+        <description><![CDATA[Little Red Apple]]></description>
+        <link>https://thegrid.ai/little-red-apple/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 00:14:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-red-apple/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRESCHOOL]]></title>
+            <description><![CDATA[<article><h1>PRESCHOOL</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9bed40-4198-46d5-a6d9-da1390c94f01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/little-red-apple/preschool/index.html</link>
+            <guid isPermaLink="false">1eb2fd69-906c-488f-b366-1575281e2a43</guid>
+            <pubDate>Thu, 11 Aug 2016 00:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
+            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
+            <guid isPermaLink="false">4a0f0b48-aa6c-4629-a90e-795f8db19e3c</guid>
+            <pubDate>Wed, 10 Aug 2016 15:35:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
